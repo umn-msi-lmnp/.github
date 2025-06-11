@@ -6,10 +6,10 @@ We are a team of five bioinformatics analysts at the Minnesota Supercomputing In
 
 ## Quick links
 
-- Our [handbook](https://github.umn.edu/lmnp/handbook).
-- The [`projects`](https://github.umn.edu/lmnp/projects) repo includes info relevant for our small group.
-  - Our weekly WAYWO (what are you working on) updates can be found under [waywo](https://github.umn.edu/lmnp/projects/tree/main/waywo).
-  - Our monthly project assignments can be found under [assignments](https://github.umn.edu/lmnp/projects/tree/main/waywo).
+- Our [`handbook`](https://github.umn.edu/lmnp/handbook) repo includes info relevant for our small group.
+- The [`projects`](https://github.umn.edu/lmnp/projects) repo includes our project details 😀.
+  - Our weekly WAYWO (_what are you working on_) updates can be found under [waywo](https://github.umn.edu/lmnp/projects/tree/main/waywo).
+  - Our monthly project assignments can be found under [assignments](https://github.umn.edu/lmnp/projects/tree/main/assignments).
   - Our individual project workspaces or repos can be found under [workspaces](https://github.umn.edu/lmnp/projects/tree/main/workspaces).
 - When starting a new research project, clone this [newproject](https://github.umn.edu/lmnp/newproject) repo to get started. It includes a README file template that outlines important info that should be recorded for every project.
 - The [meetings](http://github.umn.edu/lmnp/meetings) repo contains our meeting agendas and summaries.
