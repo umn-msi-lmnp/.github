@@ -12,3 +12,4 @@ We are a team of five bioinformatics analysts at the Minnesota Supercomputing In
   - Our monthly project assignments can be found under [assignments](https://github.umn.edu/lmnp/projects/tree/main/assignments).
 - When starting a new research project, clone this [`newproject`](https://github.umn.edu/lmnp/newproject) repo to get started. It includes a README file template that outlines important info that should be recorded for every project.
 - The [`meetings`](http://github.umn.edu/lmnp/meetings) repo contains our meeting agendas and summaries.
+- The [`tips`](https://github.umn.edu/lmnp/tips) and tricks repo includes software and connection demos
