@@ -4,12 +4,12 @@ We are a team of five bioinformatics analysts at the Minnesota Supercomputing In
 
 ## Quick links
 
-- Our [`umn-msi-mdl`](https://github.com/umn-msi-mdl) GitHub organization tracks all clinical pipelines and projects.
-- Our [`handbook`](https://github.com/umn-msi-lmnp/handbook) repo includes info relevant for our small group.
+- Our [`about`](https://github.com/umn-msi-lmnp/about) repo describes our group and how we work.
 - The [`projects`](https://github.com/umn-msi-lmnp/projects) repo includes our project details 😀.
   - Our weekly WAYWO (_what are you working on_) updates can be found under [waywo](https://github.com/umn-msi-lmnp/projects/tree/main/waywo).
   - Our monthly project assignments can be found under [assignments](https://github.com/umn-msi-lmnp/projects/tree/main/assignments).
 - When starting a new research project, clone this [`newproject`](https://github.com/umn-msi-lmnp/newproject) repo to get started. It includes a README file template that outlines important info that should be recorded for every project.
 - The [`meetings`](http://github.com/umn-msi-lmnp/meetings) repo contains our meeting agendas and summaries.
 - The [`tips`](https://github.com/umn-msi-lmnp/tips) and tricks repo includes software and connection demos
+- Our [`umn-msi-mdl`](https://github.com/umn-msi-mdl) GitHub organization tracks all clinical pipelines and projects.
 - To learn more about UMN's GitHUb Enterprise Cloud (GHEC), visit the [docs](https://github-docs.devex.oit.umn.edu).
