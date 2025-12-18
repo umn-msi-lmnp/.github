@@ -4,7 +4,7 @@ We are a team of five bioinformatics analysts at the Minnesota Supercomputing In
 
 ## Quick links
 
-- Our [`about`](https://github.com/umn-msi-lmnp/about) repo describes our group and how we work.
+- The [`about`](https://github.com/umn-msi-lmnp/about) repo describes our group and how we work.
 - When starting a new research project, clone this [`newproject`](https://github.com/umn-msi-lmnp/newproject) repo to get started. It includes a GETTING_STARTED.md file with instructions, and an example readme.md file that outlines important info that should be recorded for every project.
 - The [`projects`](https://github.com/umn-msi-lmnp/projects)🔒repo includes:
   - Our weekly WAYWO (_what are you working on_) updates can be found under [waywo](https://github.com/umn-msi-lmnp/projects/tree/main/waywo).
